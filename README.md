@@ -1,3 +1,9 @@
+ ![Screen Shot](https://github.com/thiloka99/Practical-Exam1/blob/main/web1.PNG)
+ ![Screen Shot](https://github.com/thiloka99/Practical-Exam1/blob/main/web2.PNG)
+ ![Screen Shot](https://github.com/thiloka99/Practical-Exam1/blob/main/web3.PNG)
+ ![Screen Shot](https://github.com/thiloka99/Practical-Exam1/blob/main/web4.PNG)
+ ![Screen Shot](https://github.com/thiloka99/Practical-Exam1/blob/main/web5.PNG)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
