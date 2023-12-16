@@ -3,6 +3,7 @@
  ![Screen Shot](https://github.com/thiloka99/Practical-Exam1/blob/main/web3.PNG)
  ![Screen Shot](https://github.com/thiloka99/Practical-Exam1/blob/main/web4.PNG)
  ![Screen Shot](https://github.com/thiloka99/Practical-Exam1/blob/main/web5.PNG)
+ ![Screen Shot](https://github.com/thiloka99/Practical-Exam1/blob/main/web6.PNG)
 
 # Getting Started with Create React App
 
